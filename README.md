@@ -1,5 +1,7 @@
 # Food Log
 
+https://foodloghk.netlify.app
+
 Food Log is a mobile-friendly restaurant tracker for saving places from Instagram and OpenRice, organizing anniversary options, recording visits and ratings, and viewing logged restaurants by Hong Kong district.
 
 The current version stores restaurant records in **Supabase** and includes JSON **Export** and **Import** backup functions.
@@ -246,3 +248,5 @@ Use **Import** with a previously exported JSON backup. Choose Replace only when 
 ## License
 
 This project is for personal use unless a separate license is added.
+
+
